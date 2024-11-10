@@ -22,7 +22,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> -->
   <!-- </a> -->
 </p>
-![snake_gif](https://raw.githubusercontent.com/ManmeetKaur1525/ManmeetKaur1525/output/github-snake-dark.svg)
+<!-- ![snake_gif](https://raw.githubusercontent.com/ManmeetKaur1525/ManmeetKaur1525/output/github-snake-dark.svg) -->
 
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
