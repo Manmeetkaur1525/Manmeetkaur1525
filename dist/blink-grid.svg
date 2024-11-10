@@ -1,0 +1,7 @@
+<svg width="700" height="110" xmlns="http://www.w3.org/2000/svg"><style>
+       .commit { animation: blink 2s infinite; }
+       @keyframes blink {
+         0%, 100% { fill: rgba(40, 167, 69, 1); }
+         50% { fill: rgba(40, 167, 69, 0); }
+       }
+     </style></svg>
