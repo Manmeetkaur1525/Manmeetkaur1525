@@ -22,7 +22,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> -->
   <!-- </a> -->
 </p>
-![snake gif](https://github.com/Manmeetkaur1525/Manmeetkaur1525/blob/output/github-snake-dark.svg)
+![snake_gif](https://github.com/Manmeetkaur1525/Manmeetkaur1525/blob/output/github-snake-dark.svg)
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 ---
@@ -48,25 +48,36 @@ hobbies:
 
 
 ### **Learning:**
-<img src="https://techstack-generator.vercel.app/solidity-icon.svg" width="48" height="48" alt="Solidity" />
-<img src="https://techstack-generator.vercel.app/rust-icon.svg" width="48" height="48" alt="Rust" />
+<div style="display: flex;">
+  <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+</div>
 
 ### **Languages:**
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-<img src="https://techstack-generator.vercel.app/go-icon.svg" width="48" height="48" alt="Go" />
-<img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="48" height="48" alt="JavaScript" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+<div style="display: flex;">
+  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+</div>
 
 ### **Libraries & Frameworks:**
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+<div style="display: flex;">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+</div>
 
 ### **Familiar OS:**
-<img src="https://techstack-generator.vercel.app/windows-icon.svg" width="48" height="48" alt="Windows" />
-<img src="https://techstack-generator.vercel.app/ubuntu-icon.svg" width="48" height="48" alt="Ubuntu" />
+<div style="display: flex;">
+  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+</div>
 
 ### **Tools:**
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-<img src="https://techstack-generator.vercel.app/git-icon.svg" width="48" height="48" alt="Git" />
-<img src="https://techstack-generator.vercel.app/ipfs-icon.svg" width="48" height="48" alt="IPFS" />
+<div style="display: flex;">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  <img src="https://skillicons.dev/icons?i=ipfs" alt="IPFS" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+</div>
+
 
 ```
