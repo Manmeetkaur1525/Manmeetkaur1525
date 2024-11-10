@@ -1,9 +1,7 @@
-import fs from "fs";
 import fetch from "node-fetch";
 import { JSDOM } from "jsdom";
 
 const USERNAME = "ManmeetKaur1525";
-const OUTPUT_FILE = "./dist/blink-grid.svg";
 
 async function fetchContributionData() {
   const response = await fetch(`https://github.com/users/${USERNAME}/contributions`);
@@ -56,6 +54,5 @@ function generateSVG(contributions) {
 (async () => {
   const contributions = await fetchContributionData();
   const svgContent = generateSVG(contributions);
-  fs.writeFileSync(OUTPUT_FILE, svgContent);
-  console.log(`SVG file written to ${OUTPUT_FILE}`);
+  console.log(svgContent);  // Output SVG directly to console
 })();
