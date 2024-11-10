@@ -22,7 +22,8 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> -->
   <!-- </a> -->
 </p>
-![snake_gif](https://github.com/Manmeetkaur1525/Manmeetkaur1525/blob/output/github-snake-dark.svg)
+![snake_gif](https://raw.githubusercontent.com/ManmeetKaur1525/ManmeetKaur1525/output/github-snake-dark.svg)
+
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 ---
@@ -46,7 +47,6 @@ hobbies:
 ```
 ---
 
-
 ### **Learning:**
 <div style="display: flex;">
   <img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
@@ -55,9 +55,14 @@ hobbies:
 
 ### **Languages:**
 <div style="display: flex;">
-  <img src="https://techstack-generator.vercel.app/c-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
-  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  
+  <!-- JavaScript updated as per your request -->
+  <div style="display: flex;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="63" height="63" style="margin-right: 10px; margin-bottom: 50px;" />
+  </div>
+
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
 </div>
 
@@ -75,9 +80,17 @@ hobbies:
 ### **Tools:**
 <div style="display: flex;">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
+  
+  <!-- IPFS updated as per your request -->
   <img src="https://skillicons.dev/icons?i=ipfs" alt="IPFS" width="57" height="57" style="margin-right: 10px; margin-bottom: 50px;" />
 </div>
+
+### **GitHub:**
+<!-- GitHub updated as per your request -->
+<div style="display: flex;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" style="margin-right: 10px; margin-bottom: 50px;" />
+</div>
+
 
 
 ```
