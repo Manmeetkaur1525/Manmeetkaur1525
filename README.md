@@ -22,7 +22,7 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> -->
   <!-- </a> -->
 </p>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Manmeetkaur1525/Manmeetkaur1525/blob/output/github-snake-dark.svg)
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
 ---
@@ -48,26 +48,25 @@ hobbies:
 
 
 ### **Learning:**
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+<img src="https://techstack-generator.vercel.app/solidity-icon.svg" width="48" height="48" alt="Solidity" />
+<img src="https://techstack-generator.vercel.app/rust-icon.svg" width="48" height="48" alt="Rust" />
 
 ### **Languages:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+<img src="https://techstack-generator.vercel.app/go-icon.svg" width="48" height="48" alt="Go" />
+<img src="https://techstack-generator.vercel.app/javascript-icon.svg" width="48" height="48" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
 
 ### **Libraries & Frameworks:**
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
 
 ### **Familiar OS:**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<img src="https://techstack-generator.vercel.app/windows-icon.svg" width="48" height="48" alt="Windows" />
+<img src="https://techstack-generator.vercel.app/ubuntu-icon.svg" width="48" height="48" alt="Ubuntu" />
 
 ### **Tools:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+<img src="https://techstack-generator.vercel.app/git-icon.svg" width="48" height="48" alt="Git" />
+<img src="https://techstack-generator.vercel.app/ipfs-icon.svg" width="48" height="48" alt="IPFS" />
 
 ```
