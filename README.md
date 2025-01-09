@@ -31,7 +31,7 @@
 ```yaml
 name: Manmeet Kaur
 located_in: India
-current_job: Blockchain Developer
+current_job: Junior Software Developer
 education:
   - "Bachelor's in Computer Science"
 fields_of_interests:
