@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Manmeet!&color=ffffff&background=000000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I+Code+👾;+I'm+Manmeet!&color=ffffff&background=000000" />
 
 </h1>
 
@@ -21,6 +21,8 @@
   <!-- <a href="https://www.instagram.com/manmeetkaur1525/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> -->
   <!-- </a> -->
+  <a href="https://buymeacoffee.com/manmeet15" ><img height="50" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee"  width="150"></a>
+
 </p>
 <!-- ![snake_gif](https://raw.githubusercontent.com/ManmeetKaur1525/ManmeetKaur1525/output/github-snake-dark.svg) -->
 
